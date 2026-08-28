@@ -1,1 +1,1 @@
-web: gunicorn Django_Portfilio_AkhilBonthinayanivari.wsgi --log-file -
+web: gunicorn Django_Portfolio_Akhil.wsgi --log-file -

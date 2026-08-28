@@ -6,6 +6,7 @@ media/
 staticfiles/
 env/
 venv/
+.venv/
 *.log
 db.sqlite3
 
