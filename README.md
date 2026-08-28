@@ -1,5 +1,13 @@
 # Akhil's AI and Python Portfolio
 
+
+<!-- portfolio-showcase:start -->
+<p align="center">
+  <img src="docs/showcase.svg" alt="AI + Python Project Gallery synthetic product showcase" width="100%">
+</p>
+<p align="center"><sub><strong>Portfolio preview:</strong> all names, records, metrics, and scenarios shown above are synthetic. No real user or customer data is included.</sub></p>
+<!-- portfolio-showcase:end -->
+
 [![Django CI](https://github.com/akhil15123/akhil_personal_portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/akhil15123/akhil_personal_portfolio/actions/workflows/ci.yml)
 
 A database-backed Django portfolio for presenting AI, Python, data-engineering, and full-stack projects. Projects and categories are managed through Django Admin, while visitors can browse work and submit contact messages.
